@@ -1,4 +1,4 @@
-plugins {
+çplugins {
     id("com.android.application")
     id("com.google.gms.google-services") // Firebase plugin
     id("kotlin-android")
@@ -37,3 +37,4 @@ android {
 flutter {
     source = "../.."
 }
+....
